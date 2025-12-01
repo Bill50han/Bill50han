@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**Bill50han/Bill50han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bill50han.
 
-Here are some ideas to get you started:
+![](https://skillicons.dev/icons?i=windows,visualstudio,ubuntu,vscode,c,cpp,ros,py,html,js,arduino) 
+<img src="https://github.com/Bill50han/Bill50han/raw/refs/heads/main/ida.ico" style="height: 48px;" />
+<img src="https://pwndbg.re/stable/assets/favicon.ico" style="height: 48px;" />
+<img src="https://europe1.discourse-cdn.com/steinberg/original/3X/3/e/3e2d0e37b62bf66af0e9c27856939472d7f8a275.svg" style="height: 48px;" />
+<img src="https://docs.kicad.org/img/guide-icons/placeholder.png" style="height: 50px;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IoT @ NUAA
+
+有難う御座いました | Malecaday a kiso | 回见！
