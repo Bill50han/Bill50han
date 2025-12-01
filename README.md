@@ -10,4 +10,4 @@ I'm Bill50han.
 
 IoT @ NUAA
 
-有難う御座いました | Malipahak a halama | 回见！
+有難う御座います | Malipahak a halama | 回见！
